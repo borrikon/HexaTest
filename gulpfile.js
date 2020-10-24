@@ -6,7 +6,8 @@ const gulp = require('gulp'),
     cssnano = require('gulp-cssnano'),
     rename = require('gulp-rename'),
     autoprefixer = require('gulp-autoprefixer'),
-    del = require('del')
+    del = require('del'),
+    ghPages = require('gulp-gh-pages');
     // imagemin = require('gulp-imagemin'),
     // pngquant = require('imagemin-pngquant')
 
@@ -39,17 +40,10 @@ gulp.task('css-min',  function(){
         .pipe(gulp.dest('dist/css'));
 })
 
-// gulp.task('img', function(){
-//     return gulp.src('app/img/**/*')
-//         .pipe(cache(imagemin({
-//             interleced: true,
-//             progressive: true,
-//             svgoPludins: [{removeViewBox: false}],
-//             use: [pngquant()]
-//         })))
-//         .pipe(gulp.dest('dist/img'))
-// })
-
+gulp.task('deploy', function() {
+    return gulp.src('./build/**/*')
+        .pipe(ghPages());
+});
 
 gulp.task('watch', function(){
     gulp.watch('app/scss/**/*.scss', gulp.parallel('scss'))
