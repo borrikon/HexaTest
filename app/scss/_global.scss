@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+  border: none;
+  box-sizing: border-box;
+}
+body{
+  font-family: 'Proxima Nova Regular', sans-serif;
+}
+
+.container{
+  max-width: 1140px;
+  width: 100%;
+  margin: 0 auto;
+}
+.btn{
+  padding: 9px 10px 8px;
+  border-radius: 4px;
+  color: #ffffff;
+  text-align: center;
+  font-size: 13px;
+  font-weight: 700;
+  background: linear-gradient(to top, #ff4f58 0%, #fd7048 100%);
+  transition: opacity .2s linear;
+  &:hover{
+    opacity: 0.5;
+    cursor: pointer;
+  }
+}

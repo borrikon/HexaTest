@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="393b3042-b7a6-434c-bbc6-05c24b5d2820" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="$USER_HOME$/AppData/Roaming/npm/node_modules/bower" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1jHA76dlwhF5wsW064XAG8wNVrq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.16.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.19.1" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="$USER_HOME$/AppData/Roaming/npm/node_modules/gulp" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript.Bower" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="393b3042-b7a6-434c-bbc6-05c24b5d2820" name="Default Changelist" comment="" />
+      <created>1603450473188</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603450473188</updated>
+      <workItem from="1603450474288" duration="1236000" />
+      <workItem from="1603451728351" duration="630000" />
+      <workItem from="1603452370997" duration="862000" />
+      <workItem from="1603453324146" duration="18018000" />
+      <workItem from="1603482957525" duration="1639000" />
+      <workItem from="1603530330736" duration="13125000" />
+      <workItem from="1603552547109" duration="9539000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1220" y="387" key="#Usage_Scope" timestamp="1603452047882">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1220" y="387" key="#Usage_Scope/0.0.1920.1040@0.0.1920.1040" timestamp="1603452047882" />
+    <state x="1200" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603454310011">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1200" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603454310011" />
+    <state x="1109" y="298" key="EditFileWatcherDialog" timestamp="1603453714970">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1109" y="298" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603453714970" />
+    <state x="1201" y="261" key="FileChooserDialogImpl" timestamp="1603452040602">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1201" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603452040602" />
+    <state x="762" y="330" key="SettingsEditor" timestamp="1603454077059">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="762" y="330" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603454077059" />
+  </component>
+</project>
