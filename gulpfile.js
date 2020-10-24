@@ -8,8 +8,6 @@ const gulp = require('gulp'),
     autoprefixer = require('gulp-autoprefixer'),
     del = require('del'),
     ghPages = require('gulp-gh-pages');
-    // imagemin = require('gulp-imagemin'),
-    // pngquant = require('imagemin-pngquant')
 
 gulp.task('browser-sync', function(){
 browserSync({
@@ -17,7 +15,7 @@ browserSync({
         baseDir: 'app'
     },
     notify: false
-});
+    });
 });
 
 gulp.task('scss', function(){
