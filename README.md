@@ -1,2 +1,3 @@
 # HexaTest
-test task for hexa
+test task for hexa 
+created by Borus Ushnevuch <borrikon@gmail.com>
